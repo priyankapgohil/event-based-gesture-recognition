@@ -7,4 +7,7 @@ In this project, we propose a gesture recognition system that involves computing
 We introduce the <strong>Stack of ResNets Model</strong> and <strong>9 Channel ResNet model</strong>
 as suitable convolutional network architectures to use in combination with the motion map inputs. We apply our strategy to the IITM DVS 10 Gesture Dataset and show that our model obtains the state of the art results.
 
+# Credits
 
+Thanks to S. A. Baby at al for the IITM DVS128 Gesture dataset and motion-maps code -
+https://github.com/Computational-Imaging-Lab-IITM/HAR-DVS 
